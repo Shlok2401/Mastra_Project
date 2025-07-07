@@ -1,5 +1,6 @@
 # Mastra_Project
 Title: Berkshire Hathaway Intelligence — RAG System using Mastra
+
 Goal: Build a production-ready Retrieval-Augmented Generation (RAG) application that answers questions about Warren Buffett's investment philosophy using Berkshire Hathaway’s shareholder letters.
 
 Key Features:
